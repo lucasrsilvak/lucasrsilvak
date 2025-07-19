@@ -1,11 +1,6 @@
 # 👋 Olá, eu sou o Lucas!
 
 🎓 Estudante de Engenharia de Sistemas  
-💻 Explorando Machine Learning, Sistemas Dinâmicos e Visualização de Dados  
-
-## 🚀 Tecnologias que uso
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 
 ## 📈 GitHub Stats
 
