@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Lucas!
 
-🎓 Estudante de Engenharia | Entusiasta de Simulação, Modelagem e Sistemas Complexos  
+🎓 Estudante de Engenharia de Sistemas  
 💻 Explorando Machine Learning, Sistemas Dinâmicos e Visualização de Dados  
-📚 POP
 
 ## 🚀 Tecnologias que uso
 
@@ -12,9 +11,3 @@
 
 ![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasrsilvak&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrsilvak&layout=compact&hide=jupyter%20notebook&theme=tokyonight)
-
-## 🧠 Áreas de Interesse
-
-- Simulação baseada em agentes (ABM)
-- Modelagem física e multifísica
-- Emergência em sistemas complexos
