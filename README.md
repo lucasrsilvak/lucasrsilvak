@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas!
 
-🎓 Estudante de Engenharia de Sistemas  
+Meu nome é Lucas, sou estudante de Engenharia de Sistemas e tenho interesse especial nas áreas de inteligência artificial, otimização e linguagens. Qualquer coisa que se relacione com linguagens, palavras, gramáticas e regras como lógica, modelos de linguagem, poesia, matemática e psicanálise me interessam profundamente.
 
 ## 📈 GitHub Stats
 
